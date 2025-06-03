@@ -4,6 +4,13 @@ Hey there! 👋
 
 This repository is your home for documenting your **Innovation School Project** and starting your **maker portfolio**.  
 
+## Problem Statement
+During activities like skiing or mountain climbing accidents happen and human responders just arent fast enough to render them aid; they are also unprepared for the emergency and have no data on what situation the victim is in.
+We wanted to build a rover that could allow people who like adventure to continue to do so in a safer manner.
+
+## Solution
+It is a manually controlled rover which would respond to emergencies and take medical supplies to the victim and report back data about the situation so human responders could be better prepared for it.
+It would also give victims hope as they would know that we are aware of the emergency and that help is on the way
 
 ## License
 
